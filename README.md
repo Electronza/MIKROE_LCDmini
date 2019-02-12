@@ -3,7 +3,9 @@
 Arduino library for MikroElektronika LCD mini click board (MIKROE-2453)
 
 https://www.mikroe.com/lcd-mini-click
+
 https://www.microchip.com/wwwproducts/en/MCP23S17
+
 https://www.microchip.com/wwwproducts/en/MCP4161
 
 For more information about this library please visit us at
