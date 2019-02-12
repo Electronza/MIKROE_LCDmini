@@ -1,5 +1,5 @@
 /*
-  MIKROE LCD mini click - Hello World
+  MIKROE LCD mini click - Blink
   
  https://www.mikroe.com/lcd-mini-click
 
