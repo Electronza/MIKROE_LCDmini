@@ -1,5 +1,5 @@
 /*
-  MIKROE LCD mini click - Hello World
+  MIKROE LCD mini click - setCursor
   
  https://www.mikroe.com/lcd-mini-click
 
