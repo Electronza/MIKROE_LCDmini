@@ -9,9 +9,9 @@ https://www.microchip.com/wwwproducts/en/MCP23S17
 https://www.microchip.com/wwwproducts/en/MCP4161
 
 For more information about this library please visit us at
-https://electronza.com
+https://electronza.com/arduino-library-lcd-mini-click/
 
-This library is a based on https://github.com/adafruit/STEMMA_LiquidCrystal 
+This library is based on https://github.com/adafruit/STEMMA_LiquidCrystal 
 
 == License ==
 
