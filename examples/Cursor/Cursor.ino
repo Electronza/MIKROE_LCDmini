@@ -30,14 +30,12 @@
 #include <MIKROE_LCDmini.h>
 
 /* The LCD library is initialized as follows:
- * MCP23S17_LCD(uint8_t rst, uint8_t cs, uint8_t PORT);
+ * MCP23S17_LCD(uint8_t rst, uint8_t cs, uint8_t cs2, uint8_t pwmpin);
  * rst  - RST pin for MCP23S17
  * cs   - CS pin for MCP23S17 
- * ncs  - CS pin for 
+ * cs2  - CS pin for MCP4161
  * pwmpin - lcd backlight control pin
- * 
- * MCP23S17_LCD lcd(uint8_t rst, uint8_t cs, uint8_t ncs, uint8_t pwmpin);
- * 
+ *  
  * Examples, when using Arduino Uno and Arduino Uno click shield
  * https://www.mikroe.com/arduino-uno-click-shield
  * for mikroBUS socket #1
