@@ -61,7 +61,7 @@
 class MIKROE_LCDmini : public Print {
 public:
   
-  MIKROE_LCDmini::MIKROE_LCDmini(uint8_t rst, uint8_t cs, uint8_t cs2, uint8_t pwmpin);
+  MIKROE_LCDmini(uint8_t rst, uint8_t cs, uint8_t cs2, uint8_t pwmpin);
 
   void init(uint8_t rst, uint8_t cs, uint8_t cs2, uint8_t pwmpin);
     
